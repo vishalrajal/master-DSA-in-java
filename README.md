@@ -9,10 +9,27 @@ I am solving problems consistently and uploading my practice to track growth and
 
 ### ✅ Day 01 – Basic Array Operations
 Practice Problems:
-- Findin Sum of Array
+- Finding Sum of Array
 - Finding Maximum of array elements
 - Finding Minimum of array elements
 - Finding Average of Array elements.
+
+Concepts Strengthened
+
+- Array Traversal – Iterating through all elements of an array using loops.
+- For Loop / For-Each Loop – Two ways to iterate through arrays in Java.
+- Basic Comparison Logic – Using conditions (<, >) to update min/max values.
+- Accumulator Pattern – Using a variable (like sum) to accumulate results during iteration.
+- Method Creation in Java – Writing reusable functions (public static int sum(int[] arr) etc.).
+- Return Values – Returning results from methods using return.
+- Time Complexity Awareness – Understanding that these operations run in O(n) time.
+
+---
+
+### ✅ Day 02 – Basic Array Operations
+Practice Problems:
+- Finding index of the Minimum value of the array elements
+- Reversing the Array elements.
 
 Concepts Strengthened
 
@@ -34,7 +51,9 @@ Master DSA in JAVA/
 │           ├── AverageofArr.java
 │           ├── MaxofArr.java
 │           └── MinofArr.java
-
+├── Day-02/
+│           ├── ReverseArr.java
+│           └── IndexofMin.java
 
 ---
 
@@ -58,7 +77,7 @@ Master DSA in JAVA/
 | Phase | Status |
 |-------|--------|
 | Day 1 – Array Basics Problems | ✅ Completed |
-| Day 2 – | ⏳ Upcoming |
+| Day 2 – Array Basics Problems | ✅ Completed |
 | Day 3 – | ⏳ Upcoming  |
 | Day 4 –   | ⏳ Upcoming  |
 | Day 5 –  | ⏳ Upcoming  |
